@@ -9,7 +9,7 @@ This project analyzes teaching ratings data to gain insights into how factors li
 - **Notebook File**: `data_analysis_on_teaching_ratings.ipynb`
 - **Data Source**: 'teaching_ratings.csv'
 - **Programming Language**: Python
-- **Libraries Used**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels.
+- **Libraries Used**: Pandas, NumPy, SciPy, Statsmodels.
 
 ## Objectives
 
