@@ -16,8 +16,7 @@ This project analyzes teaching ratings data to gain insights into how factors li
 The primary objectives of this analysis include:
 
 1. Exploring the dataset to understand key features.
-2. Cleaning and preprocessing the data to ensure accuracy.
-3. Performing statistical analysis to uncover patterns in teaching ratings.
+2. Performing statistical analysis to uncover patterns in teaching ratings.
 
 
 ## Key Features of Analysis
